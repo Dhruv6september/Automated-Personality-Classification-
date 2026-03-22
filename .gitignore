@@ -1,0 +1,20 @@
+# Ignore model files
+model/
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore dataset
+data/
