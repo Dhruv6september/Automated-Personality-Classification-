@@ -92,6 +92,15 @@ python train.py
 
 streamlit run streamlit_app.py
 
+## 📥 Dataset
+
+The dataset used is the MBTI Personality dataset from Kaggle.
+
+Download it from:
+https://www.kaggle.com/datasets/datasnaek/mbti-type
+
+After downloading, place it in the `data/` folder:
+
 ## 🎯 Accuracy
   - Achieves approximately ~80% accuracy.
   - Performance may vary based on dataset sampling and preprocessing.
